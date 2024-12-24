@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Computer Science Engineer who has spent 3+ years building scalable distributed systems, optimising web apps and low latency APIs. These days I just wrangle LLMs. 🤖 \
+💡 &nbsp;I'm a Computer Science Engineer who has spent 4 years building scalable distributed systems, optimizing web apps and low latency APIs. These days I just wrangle LLMs. 🤖 \
 🛠 &nbsp;I have previously worked for IBM. \
 🌟 &nbsp; I love working on projects that challenge me and allow me to collaborate with talented professionals. Whether it’s developing an app from scratch or integrating new technologies or refining existing processes, I am always ready to dive in and make a difference.  \
 🌱 &nbsp; Aspiring GoLang Developer and Gen-AI enthusiast. 
