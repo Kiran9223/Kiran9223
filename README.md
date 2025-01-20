@@ -4,13 +4,13 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 # 💫 About Me:
-🔭 I'm a Software Engineer who has spent 4 years building scalable distributed systems, optimizing web apps and low latency APIs. <br>🌟 I love working on projects that challenge me and allow me to collaborate with talented professionals. <br>🛠 Whether it’s developing an app from scratch or integrating new technologies or refining existing processes, <br>  I am always ready to dive in and make a difference.<br>⚡ I have previously worked for IBM.<br>🌱 These days I just wrangle LLMs, AI Agents and, Agentic frameworks. 🤖
+🔭 I'm a Software Engineer who has spent 4 years building scalable distributed systems, optimizing web apps and low latency APIs. <br>🌟 I love working on projects that challenge me and allow me to collaborate with talented professionals. <br>🛠 Whether it’s developing an app from scratch or integrating new technologies or refining existing processes, <br> ✨ I am always ready to dive in and make a difference.<br>⚡ I have previously worked for IBM.<br>🌱 These days I just wrangle LLMs, AI Agents and, Agentic frameworks. 🤖
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-sukumar) 
 
-## Portfolio
+## ⚡ Portfolio
 [![Static Badge](https://img.shields.io/badge/Portfolio-neon?style=social&logoColor=Orange)](https://kiran-sukumar.netlify.app/)
 
 # 💻 Tech Stack:
